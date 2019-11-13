@@ -82,8 +82,6 @@ let division = function(a,b) {
     return  sum;
 }
 
-
-
 let reduction = function(fraction) {
     let num, denom, smaller, bigger, divider;
     num = Math.abs(fraction.numerator);
